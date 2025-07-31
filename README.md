@@ -4,7 +4,7 @@ https://docs.px4.io/main/en/ros2/user_guide.html
 
 ## 1. Install ROS2 Humble
 ```
-pip install --user -U empy pyros-genmsg setuptools
+pip install --user -U empy pyros-genmsg setuptools --break-package-system
 ```
 
 ## 2. Install PX4-Autopilot
