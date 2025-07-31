@@ -21,6 +21,7 @@ make px4_sitl gz_x500
 ```
 
 ```
+sudo apt install python3-colcon-common-extensions
 mkdir -p ~/ws_offboard_control/src/
 cd ~/ws_offboard_control/src/
 git clone https://github.com/PX4/px4_msgs.git
